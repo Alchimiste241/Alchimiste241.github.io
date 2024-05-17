@@ -2,7 +2,7 @@
 
 [GitHub](https://github.com/Alchimiste241/-.git)
 
-![GitHub image](https://th.bing.com/th/id/OIP.hqma7ZkkukrNBULTXhep2QHaHa?pid=ImgDet&amp;w=185&amp;h=185&amp;c=7&amp;dpr=1.3) alt="Photo de profil"></p>
+![GitHub image](https://th.bing.com/th/id/OIP.hqma7ZkkukrNBULTXhep2QHaHa?pid=ImgDet&amp;w=185&amp;h=185&amp;c=7&amp;dpr=1.3)
 <h2 id="-">个人信息</h2>
 <ul>
 <li>地址 ：哈尔滨</li>
